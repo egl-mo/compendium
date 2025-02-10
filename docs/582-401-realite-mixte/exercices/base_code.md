@@ -21,6 +21,7 @@ Debug.Log(message);
 ## Exercice 1
 Avant de commencer l'exercice, prenez le temps d'écrire votre code à la main comme un schéma. 
 
+- [ ] Créez une nouvelle scène.
 - [ ] Créez un nouveau script sur un GameObject vide.
 - [ ] Créez une variable qui change grâce à `Time.time`.
 - [ ] Imprimez un message dans la console qui contient un message écrit en plus de votre chiffre qui change.
@@ -33,7 +34,7 @@ Résultat attendu:
 
 - [ ] Créez une nouvelle scène.
 - [ ] Créez un bouton (UI > Button).
-- [ ] Créez un texte (UI >  qui affiche le chiffre 0.
+- [ ] Créez un texte (UI > Text - TextMeshPro) qui affiche le chiffre 0.
 - [ ] Créez un objet vide nommé `Compteur`. 
 - [ ] Créez un script sur ce nouvel objet. 
 - [ ] À l'aide des bouts de code suivants, créez un script pour qu'un clic de votre bouton augmente de 1 la valeur du chiffre qui est affiché sur votre écran. 
